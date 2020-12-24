@@ -1,5 +1,5 @@
 # note
-A note taking system to practice laravel and to facilitate its own use
+一个自用的记笔记的半成品
 # environment
 php 7.0.19
 mysql 5.5
